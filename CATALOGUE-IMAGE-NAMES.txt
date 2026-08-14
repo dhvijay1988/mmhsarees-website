@@ -1,0 +1,59 @@
+MMH SAREES — CATALOGUE IMAGE FILENAME GUIDE
+
+Upload every image as WebP inside:
+images/catalogue/
+
+PLAIN COTTON
+aishwarya.webp
+shambhavi.webp
+samhita.webp
+rukmini.webp
+nalini.webp
+janaki.webp
+
+JACQUARD
+suhasini.webp
+madhuri.webp
+jacquard-butta.webp
+aragini.webp
+padmaja.webp
+sumadhura.webp
+mandira.webp
+meenakshi.webp
+
+CHECKS
+sindoor-checks.webp
+spandana-checks.webp
+meghana-checks.webp
+soundarya-checks.webp
+
+MERCERISED
+sampada.webp
+
+RICH PALLU
+madhurai-cotton-rich-pallu.webp
+
+IMPORTANT
+1. Use these exact lowercase filenames.
+2. Keep the .webp extension.
+3. Recommended image ratio: 3:4 portrait.
+4. Recommended size: 900 × 1200 pixels.
+5. Replace an existing file with the same filename to update a representative design image without changing index.html.
+
+IMAGES INCLUDED IN THE CURRENT WEBSITE PACKAGE
+shambhavi.webp
+samhita.webp
+rukmini.webp
+nalini.webp
+janaki.webp
+suhasini.webp
+madhuri.webp
+jacquard-butta.webp
+padmaja.webp
+meenakshi.webp
+sindoor-checks.webp
+spandana-checks.webp
+meghana-checks.webp
+sampada.webp
+
+The remaining filenames are already wired into index.html. Uploading a matching image file will make its design card update automatically.
